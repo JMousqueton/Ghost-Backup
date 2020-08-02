@@ -59,7 +59,7 @@ Feel free to check [issues page](https://github.com/JMousqueton/Ghost-Backup/iss
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️  if this project helped you!
 
 ## 📝 License
 
@@ -69,3 +69,4 @@ This project is [MIT](https://github.com/JMousqueton/Ghost-Backup/blob/master/LI
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+<img src="https://stats.mousqueton.io/matomo.php?idsite=6&amp;rec=1" style="border:0" alt="" />
