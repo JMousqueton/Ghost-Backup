@@ -15,7 +15,7 @@ chmod u+x ghost-backup.sh
 ## 🛠️ Configuration
 
 Edit these variables :
-| Variable  | Description  | 
+| Variable  | Description  |
 |---|---|
 | ghostUser | Your ghost admin login  |
 | ghostPassword | Your ghost admin password  |

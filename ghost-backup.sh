@@ -1,6 +1,16 @@
 #!/bin/bash
 
-
+#==============================================================================
+#title           : ghost-backup.sh
+#description     : Quick & Dirty script to backup Ghost Selfhosted blog
+#author	      	 : Julien Mousqueton (@JMousqueton)
+#date            : 20200801
+#version         : 1.0
+#usage		     : bash ghost-backup.sh
+#notes           : Becarefull no check is done in this script 
+#==============================================================================
+# Variables
+#==============================================================================
 ghostUser=""
 ghostPassword=""
 # MySQL/MariaDB information 
