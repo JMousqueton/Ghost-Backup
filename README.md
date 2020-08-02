@@ -20,7 +20,7 @@ Edit these variables :
 | ghostUser | Your ghost admin login  |
 | ghostPassword | Your ghost admin password  |
 | ghostDatabase | Your ghost database name |
-| ghostDatabaseUser | Your ghost database user   |
+| ghostDatabaseUser | Your ghost database user |
 | ghostDatabasePassword | Your ghost database password  |
 | ghostDomain | Your blog domain (ie https://www.example.com) |
 | ghostFolder | Your blog path |
@@ -69,4 +69,3 @@ This project is [MIT](https://github.com/JMousqueton/Ghost-Backup/blob/master/LI
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
-![](https://stats.mousqueton.io/matomo.php?idsite=6&amp;rec=1)
