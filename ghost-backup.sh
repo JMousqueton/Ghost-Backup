@@ -55,11 +55,11 @@ function BackupConfig() {
     cp ${ghostFolder}/config.production.json ${backupDir}/$backupDate/
 }
 
-function purgeOldBakcup() {
-find ${backupDir} -name "${backupName}-*.gz" -mtime +${backupRetention} -print -exec rm {} \;
+function purgeOldBackup() {
+find ${backupDir} -name "${backupName}-*.tgz" -mtime +${backupRetention} -print -exec rm {} \;
 }
 
-function CreateBackupArchice() {
+function CreateBackupArchive() {
     tar cvfz ${backupDir}/${backupName}-${backupDate}.tgz ${backupDir}/$backupDate/
 }
 
